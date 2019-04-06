@@ -1,2 +1,103 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE HTML>
+<html>
+ <head>
+    <title> Portifolio | Deivid Rian </title>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <link rel="shortcut icon" href="img/icon.png" type="image/x-icon" />
+        <meta charset="utf-8">
+        <meta name="author" content="Deivid Rian">
+ </head>
+     <body style="background: url(img/fundo.jpg) no-repeat top center fixed; background-size: cover">
+
+       <div id="cabeça">
+
+
+        <div class="redes">
+            <a href="https://twitter.com/DavidVDark81" target="_blank"><img src="../sitee/img/fotos/tt.png" alt=""></a>
+         </div>
+        <div class="redes">
+            <a href="https://www.facebook.com/deividrian.viannadeabreuvargas" target="_blank"><img src="../sitee/img/fotos/face.png" alt=""></a>
+        </div>
+        <div class="redes">
+            <a href="https://www.instagram.com/d_v.a.r.g.a.s/?hl=pt-br" target="_blank"><img src="../sitee/img/fotos/insta.png" alt=""></a>
+        </div>
+           <div id="desig">
+               <img src="../sitee/img/fotos/design.png" alt="">
+           </div>
+
+     </div>
+
+
+<div id="menu">
+  <ul id="nav">
+        <li><a href="index.html" >Home</a></li>
+        <li><a href="sobre.html" >Sobre</a></li>
+        <li><a href="fotos.html" >Fotos</a></li>
+        <li><a href="contatos.html" >Contato</a></li>
+  </ul> 
+</div>
+
+
+
+
+    <div id="fotos">
+        <center><a href="imagem2.html" target="_blank"><img id="fgrande" src="../sitee/img/fotos/img2.jpg" alt=""></a></center>
+      <div id="seçao">
+        <div class="tres">
+            <a href="fotos.html"><img src="../sitee/img/fotos/img1.jpg" alt=""></a>
+        </div>
+        <div class="tres">
+          <a href="fotos.html"><img src="../sitee/img/fotos/img3.JPG" alt=""></a>
+        </div>
+        <div class="tres">
+          <a href="fotos.html"><img src="../sitee/img/fotos/img4.JPG" alt=""></a>
+        </div>
+      </div>
+
+        <div style="clear: both;"> </div>
+
+        <div id="apps">
+
+                <table class="tabelas">
+                    <caption>Conhecimentos em:</caption>
+                    <thead>
+                        <tr>
+                    <th class="rede"><img src="img/ps.png"></th>
+                    <th class="rede"><img src="img/pr.png"></th>
+                    <th class="rede"><img src="img/ai.png"></th>
+                    <th class="rede"><img src="img/sv.png"></th>
+                    <th class="rede"><img src="img/fl.png"></th>
+                        </tr>
+                    </thead>
+                    <tr>
+                        <td align=middle>Photoshop</td>
+                        <td align=middle>Premiere</td>
+                        <td align=middle>Illustrator</td>
+                        <td align=middle>Sony Vegas</td>
+                        <td align=middle>FL Studio</td>
+                    </tr>
+                    
+                </table>
+
+
+
+
+        </div>
+        
+        <h1 id="titul">Deivid Vargas - Graphic Designer</h1>
+        
+
+
+    </div>
+
+    <div id="end">
+         <p id="cop">Todos os direitos reservados © - 2019 </p>
+    </div>
+
+
+
+
+
+    </body>
+
+</html>
